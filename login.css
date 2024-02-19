@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(173, 173, 218);
+}
+form{
+    margin-top: 100px;
+    margin-left: 350px;
+    margin-right: 350px;
+    text-align: center;
+    border: 5px solid rgb(214, 240, 163);
+    background-color: rgb(231, 205, 210);
+    padding: 20px 20px;
+}
+#mar{
+    background-color: blueviolet;
+    color: rgb(18, 235, 11);
+    
+    
+}
+#p1{
+    font-size: 40px;
+}
